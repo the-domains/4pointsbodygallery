@@ -1,0 +1,28 @@
+name: 4PointsBodyGallery
+favicon: null
+layout_spectrum: 0.1361447717063129
+typography_spectrum: 0.7761605142150074
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.692033420316875
+  lightness: 0.7145956647582352
+  saturation: 0.7927862342912704
+  rhythmicContrast: 0.7713209392968565
+purpose: []
