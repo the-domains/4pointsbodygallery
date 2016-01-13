@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[4PointsBodyGallery]]></title>
+        <description><![CDATA[4PointsBodyGallery]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 18:30:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hi all. Have a few openings for tattoos left this Thursday, Friday and Sunday; afternoon and evening sessions available. Lets do rad stuff eh?</p>]]></description>
+            <link>https://www.facebook.com/photo.php?fbid=10153408224507075&amp;set=a.10150104532327075.283860.654877074&amp;type=3</link>
+            <guid isPermaLink="false">a011c4d5-f219-4aa6-9f41-f7b23bfc322b</guid>
+            <pubDate>Wed, 13 Jan 2016 18:30:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
